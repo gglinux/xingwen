@@ -1,10 +1,4 @@
-﻿# Host: localhost  (Version: 5.5.40)
-# Date: 2016-04-12 18:24:20
-# Generator: MySQL-Front 5.3  (Build 4.13)
-
-/*!40101 SET NAMES utf8 */;
-
-#
+﻿#
 # Source for table "dept"
 #
 
@@ -45,8 +39,8 @@ CREATE TABLE `staff` (
 # Source for table "user"
 #
 
-DROP TABLE IF EXISTS `user`;
-CREATE TABLE `user` (
+DROP TABLE IF EXISTS `admin`;
+CREATE TABLE `admin` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `user` varchar(12) DEFAULT '',
   `password` varchar(20) DEFAULT '',
@@ -94,4 +88,3 @@ CREATE TABLE `xw` (
 #
 # Data for table "xw"
 #
-
