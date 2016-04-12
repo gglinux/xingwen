@@ -1,5 +1,7 @@
 ## XingWen
-一款内容管理系统，主要用到了swing和jdbc
+一款内容管理系统，主要用到了swing和jdbc。
+除了学习之外，你也可以使用它作为OA系统。
+
 ### 使用方法
 1. 安装mysql，导入xingwen.sql
 2. 安装jdk1.5以上
