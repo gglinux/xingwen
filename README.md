@@ -6,3 +6,6 @@ This is a CMS system about enterprise management. It is easy to understand,which
 2. install jdk 1.5 
 3. import the Java code to eclipse 
 4. if you have install Java runtime ,you can run the XWSystem.jar directly
+
+### Show
+![image](http://hoop8.com/1610C/e8EPFJjS.png)
