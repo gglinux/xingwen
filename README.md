@@ -9,3 +9,4 @@ This is a CMS system about enterprise management. It is easy to understand,which
 
 ### Show
 ![image](http://hoop8.com/1610C/e8EPFJjS.png)
+![imgae](https://github.com/gglinux/xingwen/blob/master/doc/show.png)
